@@ -60,7 +60,7 @@ claim  → only through the gate: crashes resolved or carried as limitations,
 ```
 SKILL.md                     the protocol (this is the skill)
 scripts/tally.py             panel + protocol validation, stdlib only
-examples/example-notebook.jsonl  a tiny worked notebook
+references/example-notebook.jsonl  a tiny worked notebook
 ```
 
 ## Provenance
